@@ -1,0 +1,13 @@
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\bin\Debug\Population.mdf
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\bin\Debug\Population_log.ldf
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn-CPT-206-A01S-Lab1.csproj.AssemblyReference.cache
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn_CPT_206_A01S_Lab1.Edit.resources
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn_CPT_206_A01S_Lab1.Form1.resources
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn_CPT_206_A01S_Lab1.Properties.Resources.resources
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn-CPT-206-A01S-Lab1.csproj.GenerateResource.cache
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn-CPT-206-A01S-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn-CPT-206-A01S-Lab1.exe
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\obj\Debug\AdamQuinn-CPT-206-A01S-Lab1.pdb
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\bin\Debug\AdamQuinn-CPT-206-A01S-Lab1.exe.config
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\bin\Debug\AdamQuinn-CPT-206-A01S-Lab1.exe
+C:\Users\adamq\source\repos\AdamQuinn-CPT-206-A01S-Lab1\bin\Debug\AdamQuinn-CPT-206-A01S-Lab1.pdb
