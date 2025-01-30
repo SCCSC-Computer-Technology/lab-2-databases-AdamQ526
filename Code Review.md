@@ -1,0 +1,3 @@
+Code Review – Adam Quinn (By Michael Lee)
+
+Your code is well-written and easy to understand. Good use of comments. Your UI is great – love the dark mode. I liked your use of a separate “Edit” form! Good implementation, and honestly a bit more elegant than how I went about it. Also, I did run into an issue with your program trying to add new elements to the table. I actually ran into that exact same issue and had to come up with my own manual implementation (but I see now that it could have been done more easily another way). Overall, great job.
